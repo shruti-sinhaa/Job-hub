@@ -67,7 +67,7 @@ JWT tokens used to protect private routes and APIs
 
 📦 Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/job-hub.git
+git clone https://github.com/your-shruti-sinhaa/job-hub.git
 
 # Install dependencies
 cd job-hub
