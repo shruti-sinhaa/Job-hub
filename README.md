@@ -91,7 +91,8 @@ npm run dev
 - Clean, maintainable code structure
 
 👩‍💻 Author
-💼 LinkedIn: [Shruti Sinha] (www.linkedin.com/in/shruti-sinha24)
+
+💼 LinkedIn: [Shruti Sinha](www.linkedin.com/in/shruti-sinha24)
 
 Let’s connect professionally and grow your data career 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
 
