@@ -78,13 +78,13 @@ npm install
 npm run dev
 
 
-📈 Future Enhancements
+# 📈 Future Enhancements
 - Role-based access (Admin / Recruiter / Candidate)
 - Resume upload and application tracking
 - Advanced analytics dashboard
 - Pagination and caching for large datasets
 
-🎯 What This Project Demonstrates
+# 🎯 What This Project Demonstrates
 - End-to-end full-stack development
 - Real-world use of GraphQL and authentication
 - Backend performance optimization
