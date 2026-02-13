@@ -69,11 +69,11 @@ JWT tokens used to protect private routes and APIs
 # Clone the repository
 git clone https://github.com/shruti-sinhaa/job-hub.git
 
-# Install dependencies
+ Install dependencies
 cd job-hub
 npm install
 
-# Start the development server
+ Start the development server
 npm run dev
 
 
