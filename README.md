@@ -65,13 +65,14 @@ JWT tokens used to protect private routes and APIs
 - Manual testing for UI flows and edge cases
 - Error handling for failed API calls and invalid inputs
 
-📦 Installation & Setup
+
 # Clone the repository
 git clone https://github.com/shruti-sinhaa/job-hub.git
-
+ 
+# 📦 Installation & Setup
  Install dependencies
 cd job-hub
-npm install
+npm install 
 
  Start the development server
 npm run dev
