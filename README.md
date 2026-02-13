@@ -91,7 +91,7 @@ npm run dev
 - Database schema design and scalability
 - Clean, maintainable code structure
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 💼 LinkedIn: [Shruti Sinha](www.linkedin.com/in/shruti-sinha24)
 
