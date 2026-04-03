@@ -65,8 +65,9 @@ JWT tokens used to protect private routes and APIs
 - Manual testing for UI flows and edge cases
 - Error handling for failed API calls and invalid inputs
 
-```bash
+
 # Clone the repository
+```bash
 git clone https://github.com/shruti-sinhaa/job-hub.git
 ```
  
